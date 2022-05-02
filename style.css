@@ -9,7 +9,7 @@ h1 {
 }
 
 .main {
-    color: red;
+    color: blue;
     background-color: pink;
     list-style: square;
     
@@ -18,10 +18,4 @@ h1 {
 .list {
     font-size: 35px;
     text-align: center;
-}
-
-#image {
-    height: auto;
-    width: 100px;
-    border-radius: 50%;
 }
